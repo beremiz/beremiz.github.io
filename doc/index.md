@@ -30,19 +30,19 @@ conform to PLCopen XML
 
 The PLCopen Editor saves and loads XML projects accordingly to [PLCopen TC6-XML Schemes](http://www.plcopen.org/pages/tc6_xml/).
 
-![](/assets/img/plc-xml2.png){: .center-image }
+![](plc-xml2.png){: .center-image }
 
 Data-model is based on the official TC6-XML XML Schema. The official .xsd
 file is used at startup to create a kind of meta model, that define relations
 between objects inside the PLCopen model. Thanks to this feature, PLCopen Editor
 can also be used as a PLCopen TC6-XML validator.
 
-![](/assets/img/beremiz-xml.png){: .center-image }
+![](beremiz-xml.png){: .center-image }
 
 PLCOpen editor has built-in export filter that convert graphical languages to
 their equivalent textual form.
 
-![](/assets/img/beremiz-xml2.png){: .center-image }
+![](beremiz-xml2.png){: .center-image }
 
 ### The IEC to C compiler
 
@@ -58,7 +58,7 @@ Now MatIEC works this way:
 - All POU parameters and variables are accessible through nested C structs
 - Located variables are declared as extern C variables
 
-![](/assets/img/iec.png){: .center-image }
+![](iec.png){: .center-image }
 
 ## Standards
 

@@ -1,1 +1,20 @@
-theme: jekyll-theme-cayman
+# bermiz.github.io jekuyl config
+
+## uncomment when beremiz.org CNAME targets github pages 
+# title: beremiz.org
+
+author: "Beremiz SAS, France"
+email: webmaster@beremiz.org
+description: "Beremiz home"
+baseurl: ""
+url: "https://beremiz.org"
+github_username: beremiz
+show_excerpts: true
+theme: minima
+
+header_pages:
+  - about.md
+  - usecases/index.md
+  - doc/index.md
+  - get.md
+  - support.md

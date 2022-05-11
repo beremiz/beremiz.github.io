@@ -10,9 +10,9 @@ permalink: /support/
 Please reach [Beremiz SAS (France)](https://beremiz.fr). ![](/assets/img/email.svg)
 
 
-## Community support
+## Community
 
-### Community mailing list
+### Mailing list
 
 Moderated [beremiz-devel@lists.sourceforge.net](https://sourceforge.net/p/beremiz/mailman/beremiz-devel) mailing list is the main community communication channel. For posting it is required to be [subscribed](https://sourceforge.net/projects/beremiz/lists/beremiz-devel) to the mailing list.
 
@@ -20,7 +20,8 @@ Searchable webarchive of the mailing list is available [here](http://beremiz-dev
 
 ### IRC
 
-Chat with developers on #beremiz channel on libera.chat
+Chat with developers on #beremiz channel on [libera.chat](https://web.libera.chat/)
+
 
 ## Contribute
 
