@@ -1,0 +1,21 @@
+---
+---
+
+@import "minima";
+
+.site-title { visibility: hidden; }
+
+.site-title::before {
+
+	content: url("/assets/img/logo_beremiz.svg");
+    visibility: visible;
+	position: absolute;
+	width: 7em;
+	top: 0.3em;
+}
+
+.center-image
+{
+    margin: 0 auto;
+    display: block;
+}
