@@ -3,9 +3,12 @@
 ## uncomment when beremiz.org CNAME targets github pages 
 # title: beremiz.org
 
-author: "Beremiz SAS, France"
+author:
+  name: "Beremiz SAS, France"
+  url: https://beremiz.fr
 email: webmaster@beremiz.org
-description: "Beremiz home"
+tagline: "Beremiz home"
+description: "Beremiz is Open Source PLC. It brings Free Software IDE (GPL) and Runtime (LGPL) for machine automation, conforming to IEC-61131."
 baseurl: ""
 url: "https://beremiz.org"
 github_username: beremiz
