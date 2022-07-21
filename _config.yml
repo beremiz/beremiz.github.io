@@ -1,7 +1,6 @@
-# bermiz.github.io jekuyl config
+# bermiz.github.io jekyll config
 
-## uncomment when beremiz.org CNAME targets github pages 
-# title: beremiz.org
+title: beremiz.org
 
 author:
   name: "Beremiz SAS, France"
