@@ -20,7 +20,7 @@ Searchable webarchive of the mailing list is available [here](http://beremiz-dev
 
 ### IRC
 
-Chat with developers on #beremiz channel on [libera.chat](https://web.libera.chat/)
+Chat with developers on #beremiz channel on [libera.chat](https://web.libera.chat/#beremiz)
 
 
 ## Contribute
